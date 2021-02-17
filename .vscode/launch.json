@@ -8,25 +8,8 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
-<<<<<<< Updated upstream
-=======
             "mainClass": "View.App",
             "projectName": "Projeto_POO_41b1ee0d"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "View.App",
-            "projectName": "Projeto_POO_5ef00caa"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
->>>>>>> Stashed changes
-            "mainClass": "App",
-            "projectName": "Projeto_POO_5ef00caa"
         },
         {
             "type": "java",
@@ -38,14 +21,9 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
-<<<<<<< Updated upstream
-            "vmArgs": "--module-path C:\\Users\\mathe\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls,javafx.fxml",
-            "mainClass": "View.App",
-=======
-            "vmArgs": "--module-path C:\\Users\\user\\Downloads\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls, javafx.fxml, javafx-swt, javafx.web, javafx.swing, javafx.media, javafx.graphics, javafx.base",
-            "mainClass": "Main",
->>>>>>> Stashed changes
-            "projectName": "Projeto_POO_5ef00caa"
+            "vmArgs": "--module-path C:/Users/user/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "App",
+            "projectName": "javafx teste_bf246d02"
         }
     ]
 }
