@@ -10,6 +10,16 @@
             "request": "launch",
             "mainClass": "View.App",
             "projectName": "Projeto_POO_41b1ee0d"
+<<<<<<< Updated upstream
+=======
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Projeto_POO_5ef00caa"
+>>>>>>> Stashed changes
         },
         {
             "type": "java",
@@ -21,9 +31,15 @@
             "type": "java",
             "name": "Launch App",
             "request": "launch",
+<<<<<<< Updated upstream
             "vmArgs": "--module-path C:/Users/user/Downloads/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "App",
             "projectName": "javafx teste_bf246d02"
+=======
+            "vmArgs": "--module-path C:\\Users\\user\\Downloads\\javafx-sdk-11.0.2\\lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "View.App",
+            "projectName": "Projeto_POO_5ef00caa"
+>>>>>>> Stashed changes
         }
     ]
 }
